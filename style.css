@@ -1,0 +1,1368 @@
+/* menu */
+.active {
+    color: #FF6464;
+}
+
+nav {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 60px;
+    margin-top: 27px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.works {
+    margin-right: 33px;
+}
+
+.blog {
+    margin-right: 33px;
+}
+
+/* header */
+.hi {
+    position: absolute;
+    width: 436px;
+    height: 120px;
+    left: 148px;
+    top: 228px;
+    max-width: 440px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+}
+
+p {
+    position: absolute;
+    width: 497px;
+    height: 66px;
+    left: 148px;
+    top: 373px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+
+    color: #21243D;
+
+}
+
+.download {
+    padding-top: 14px;
+
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 168px;
+    top: 486px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    background-color: #FF6464;
+    position: absolute;
+    width: 208px;
+    height: 47px;
+    left: 148px;
+    top: 477px;
+}
+
+.john {
+    position: absolute;
+    width: 243px;
+    height: 243px;
+    right: 160px;
+    top: 210px;
+}
+
+/* recent posts */
+.recent-posts {
+    position: absolute;
+    width: 1430px;
+    height: 396px;
+    left: 0px;
+    top: 595px;
+
+    background: #EDF7FA;
+}
+
+.resent {
+    position: absolute;
+    width: 129px;
+    height: 41px;
+    left: 148px;
+    top: 28px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    /* or 273% */
+    
+    display: flex;
+    align-items: flex-end;
+    
+    /* Dark Color */
+    
+    color: #21243D;
+    
+}
+
+.Wiev_all {
+    position: absolute;
+    width: 62px;
+    height: 20px;
+    top: 40px;
+    right: 149px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+
+    /* Secondry */
+
+    color: #00A8CC;
+}
+
+.resent-1 {
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    left: 148px;
+    top: 78px;
+
+    padding-left: 23px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+}
+
+.top-1 {
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    left: 23px;
+    top: 40px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+}
+
+.recent-11 {
+    position: absolute;
+    width: 106px;
+    height: 34px;
+    left: 23px;
+    top: 126px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.recent-12 {
+    position: absolute;
+    left: 153px;
+    top: 126px;
+}
+
+.recent-13 {
+    position: absolute;
+    left: 179px;
+    top: 126px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.recent-description {
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    left: 23px;
+    top: 171px;
+
+    max-width: 349px;
+}
+
+
+
+.resent-2 {
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    left: 666px;
+    top: 78px;
+
+    padding-left: 23px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+}
+
+.top-2 {
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    left: 23px;
+    top: 40px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+}
+
+.recent-21 {
+    position: absolute;
+    width: 106px;
+    height: 34px;
+    left: 23px;
+    top: 126px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.recent-22 {
+    position: absolute;
+    left: 153px;
+    top: 126px;
+}
+
+.recent-23 {
+    position: absolute;
+    left: 179px;
+    top: 126px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.recent-description {
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    left: 23px;
+    top: 171px;
+
+    max-width: 349px;
+}
+
+.recent-blocks {
+    align-content: center;
+}
+
+/* featured works */
+.featured-top {
+    position: absolute;
+    width: 152px;
+    height: 60px;
+    left: 148px;
+    top: 1006px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    /* identical to box height, or 273% */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+
+    padding-bottom: 44px;
+}
+
+
+
+hr {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 146px;
+    top: 1283px;
+
+    /* Gray 5 */
+
+    border: 1px solid #E0E0E0;
+}
+
+.hr-1 {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 146px;
+    top: 1283px;
+
+    /* Gray 5 */
+
+    border: 1px solid #E0E0E0;
+}
+
+.hr-2 {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 136px;
+    top: 1510px;
+
+    /* Gray 5 */
+
+    border: 1px solid #E0E0E0;
+}
+
+
+.hr-3 {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 146px;
+    top: 1756px;
+
+    /* Gray 5 */
+
+    border: 1px solid #E0E0E0;
+}
+
+
+
+
+.designing-img-1 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1088px;
+}
+
+.h-designing-1  {
+    position: absolute;
+    width: 395px;
+    height: 44px;
+    left: 410px;
+    top: 1080px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+span {
+
+    background-color: black; 
+    color: #FFFFFF;
+    width: 65px; 
+    height: 25;
+    border-radius: 20px; 
+    padding: 3px;
+    text-align: center;
+}
+
+.year {
+    position: absolute;
+    left: 420px;
+    top: 1104px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 27px;
+}
+
+.grey-1 {
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: 498px;
+    top: 1110px;
+    margin-left: 26px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    
+    /* Light */
+    
+    color: #8695A4;
+}
+
+
+.featured-text-1 {
+    position: absolute;
+    width: 573px;
+    height: 70px;
+    left: 410px;
+    top: 1168px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.designing-img-2 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1312px;
+}
+
+.h-designing-2  {
+    position: absolute;
+    width: 397px;
+    height: 44px;
+    left: 410px;
+    top: 1310px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+.year-2 {
+    position: absolute;
+    left: 420px;
+    top: 1336px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 27px;
+}
+
+.grey-2 {
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: 498px;
+    top: 1348px;
+    margin-left: 26px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    
+    /* Light */
+    
+    color: #8695A4;
+}
+
+
+.featured-text-2 {
+    position: absolute;
+    width: 573px;
+    height: 70px;
+    left: 410px;
+    top: 1395px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+
+
+.designing-img-3 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1560px;
+}
+
+.h-designing-3  {
+    position: absolute;
+    width: 390px;
+    height: 44px;
+    left: 410px;
+    top: 1556px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+.year-3 {
+    position: absolute;
+    left: 420px;
+    top: 1583px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 27px;
+}
+
+.grey-3 {
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: 498px;
+    top: 1583px;
+    margin-left: 26px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    
+    /* Light */
+    
+    color: #8695A4;
+}
+
+
+.featured-text-3 {
+    position: absolute;
+    width: 573px;
+    height: 70px;
+    left: 410px;
+    top: 1635px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+
+/* footer */
+.fb {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1910px;
+    left: 598px;
+}
+
+.insta {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1910px;
+    left: 663px;
+}
+
+.twiter {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1910px;
+    left: 728px;
+}
+
+.linkedin {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1910px;
+    left: 800px;
+}
+
+.copyright {
+    position: absolute;
+    height: 21px;
+    left: 464px;
+    top: 1996px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Dark */
+
+    color: #21243D;
+}
+
+
+
+/* BLOG */
+
+.page-blog {
+    position: absolute;
+    width: 156px;
+    height: 54px;
+    left: 235px;
+    top: 160px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.post-1 {
+    position: absolute;
+    width: 682px;
+    height: 33px;
+    left: 235px;
+    top: 269px;
+}
+
+.post-name {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+.post-name {
+    position: absolute;
+    width: 682px;
+    height: 33px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.blog-post-data {
+    position: absolute;
+    width: 374px;
+    height: 25px;
+    left: 0px;
+    top: 39px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+.blog-post-line {
+    position: absolute;
+    width: 0px;
+    height: 21px;
+    left: 130px;
+    top: 39px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+}
+.blog-post-tsubject {
+    position: absolute;
+    width: 182px;
+    height: 25px;
+    left: 150px;
+    top: 39px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    /* Light */
+
+    color: #8695A4;
+}
+
+.blog-post-decription {
+    position: absolute;
+    width: 610px;
+    height: 43px;
+    left: 0px;
+    top: 90px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.blog-hr-1 {
+    position: absolute;
+    width: 681px;
+    height: 0px;
+    left: 0px;
+    top: 170px;
+
+    /* Gray 5 */
+
+    border: 1px solid #E0E0E0;
+}
+
+.post-2 {
+    position: absolute;
+    width: 682px;
+    height: 47px;
+    left: 235px;
+    top: 462px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.post-3 {
+    position: absolute;
+    width: 682px;
+    height: 47px;
+    left: 235px;
+    top: 655px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.post-4 {
+    position: absolute;
+    width: 682px;
+    height: 47px;
+    left: 235px;
+    top: 848px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.fb-blog {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1160px;
+    left: 598px;
+}
+
+.insta-blog {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1160px;
+    left: 663px;
+}
+
+.twiter-blog {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1160px;
+    left: 728px;
+}
+
+.linkedin-blog {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1160px;
+    left: 800px;
+}
+
+.copyright-blog {
+    position: absolute;
+    height: 21px;
+    left: 464px;
+    top: 1216px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Dark */
+
+    color: #21243D;
+}
+
+
+/* works */
+
+
+.designing-img-4 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 1058px;
+}
+
+.h-designing-4  {
+    position: absolute;
+    width: 305px;
+    height: 44px;
+    left: 410px;
+    top: 1055px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+span {
+
+    background-color: black; 
+    color: #FFFFFF;
+    width: 65px; 
+    height: 25;
+    border-radius: 20px; 
+    padding: 3px;
+    text-align: center;
+}
+
+.year-4 {
+    position: absolute;
+    left: 420px;
+    top: 1084px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 27px;
+}
+
+.grey-4 {
+    position: absolute;
+    width: 185px;
+    height: 34px;
+    left: 498px;
+    top: 1093px;
+    margin-left: 26px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    
+    /* Light */
+    
+    color: #8695A4;
+}
+
+
+.featured-text-4 {
+    position: absolute;
+    width: 573px;
+    height: 70px;
+    left: 410px;
+    top: 1151px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+.works-1-3 {
+    position: absolute;
+    width: 682px;
+    height: 0px;
+
+    top: 243px;
+}
+
+.featured-block-1-1 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    top: -1050px;
+    left: 80px;
+
+}
+
+.featured-block-2-1 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    top: -1050px;
+    left: 80px;
+
+}
+
+.featured-block-3-1 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    top: -1050px;
+    left: 80px;
+
+}
+
+.featured-block-4-1 {
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    top: -70px;
+    left: 83px;
+
+}
+
+.hr-5 {
+    position: absolute;
+    width: 858px;
+    height: 0px;
+    left: 149px;
+    top: 1294px;
+    
+    /* Gray 5 */
+    
+    border: 1px solid #E0E0E0;
+}
+
+/* footer */
+.fb-work {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1403px;
+    left: 598px;
+}
+
+.insta-work {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1403px;
+    left: 663px;
+}
+
+.twiter-work {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1403px;
+    left: 728px;
+}
+
+.linkedin-work {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1403px;
+    left: 800px;
+}
+
+.copyright-work {
+    position: absolute;
+    height: 21px;
+    left: 464px;
+    top: 1459px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Dark */
+
+    color: #21243D;
+}
+
+.h-designing-1-w  {
+    position: absolute;
+    width: 395px;
+    height: 44px;
+    left: 410px;
+    top: 1085px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.h-designing-2-w  {
+    position: absolute;
+    width: 397px;
+    height: 44px;
+    left: 410px;
+    top: 1308px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.h-designing-3-w  {
+    position: absolute;
+    width: 390px;
+    height: 44px;
+    left: 410px;
+    top: 1558px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+
+/* work detail */
+.work-detail-year {
+    position: absolute;
+    left: 239px;
+    top: 268px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 27px;
+
+    background-color: #FF7C7C; 
+}
+
+.work-detail-h1 {
+    position: absolute;
+    width: 506px;
+    height: 100px;
+    left: 235px;
+    top: 148px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 50px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.work-detail-subjet {
+    position: absolute;
+    width: 374px;
+    height: 34px;
+    left: 318px;
+    top: 278px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.work-detail-text {
+    position: absolute;
+    width: 681px;
+    height: 44px;
+    left: 235px;
+    top: 335px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.work-detai-img-1 {
+    position: absolute;
+    width: 681px;
+    height: 460px;
+    left: 235px;
+    top: 425px;
+}
+
+.work-detail-h2 {
+    position: absolute;
+    width: 506px;
+    height: 45px;
+    left: 239px;
+    top: 939px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.work-detail-h3 {
+    position: absolute;
+    width: 506px;
+    height: 82px;
+    left: 239px;
+    top: 984px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 60px;
+}
+
+.work-detail-text-2 {
+    position: absolute;
+    width: 677px;
+    height: 48px;
+    left: 239px;
+    top: 1049px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.work-detai-img-2 {
+    position: absolute;
+    width: 681px;
+    height: 460px;
+    left: 235px;
+    top: 1127px;
+}
+
+.work-detai-img-3 {
+    position: absolute;
+    width: 681px;
+    height: 460px;
+    left: 235px;
+    top: 1614px;
+}
+
+.fb-work-detail {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2152px;
+    left: 598px;
+}
+
+.insta-work-detail {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2152px;
+    left: 663px;
+}
+
+.twiter-work-detail {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2152px;
+    left: 728px;
+}
+
+.linkedin-work-detail {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2152px;
+    left: 800px;
+}
+
+.copyright-work-detail {
+    position: absolute;
+    height: 21px;
+    left: 464px;
+    top: 2208px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Dark */
+
+    color: #21243D;
+}
