@@ -125,12 +125,12 @@ p {
     
 }
 
-.Wiev_all {
+.view_all {
     position: absolute;
     width: 62px;
     height: 20px;
-    top: 40px;
-    right: 149px;
+    top: 20px;
+    right: 349px;
 
     font-family: 'Heebo';
     font-style: normal;
@@ -654,7 +654,7 @@ span {
     position: absolute;
     height: 21px;
     left: 464px;
-    top: 1996px;
+    top: 1945px;
 
     font-family: 'Heebo';
     font-style: normal;
